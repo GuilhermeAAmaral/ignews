@@ -1,0 +1,3 @@
+./stripe listen --forward-to localhost:3000/api/webhooks
+
+npm install @prismicio/client@5.1.1
