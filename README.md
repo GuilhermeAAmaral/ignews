@@ -5,7 +5,7 @@ Descrição: Um website com Next SSR criado para leitura das principais notiicia
 Funcionalidades: Página Inicial com botão para assinatura e  botão para leitura preview das materias publicadas. 
 
 
-Página de pagamento, Página de materias, Autenticação com Github 
+Página de pagamento, Página de materias e Autenticação com Github 
 
 Funcionalidades do CMS Prismic(Administrador): Criação, edição, exclusão das materias publicadas
 
