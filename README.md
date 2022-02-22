@@ -2,7 +2,10 @@ Título: Ignews
 
 Descrição: Um website com Next SSR criado para leitura das principais notiicias do mundo da tecnologia. 
 
-Funcionalidades: Página Inicial com opção de Assinatura e leitura preview das materias publicadas. Página de pagamento, Página de materias, Autenticação com Github 
+Funcionalidades: Página Inicial com botão para assinatura e  botão para leitura preview das materias publicadas. 
+
+
+Página de pagamento, Página de materias, Autenticação com Github 
 
 Funcionalidades do CMS Prismic(Administrador): Criação, edição, exclusão das materias publicadas
 
