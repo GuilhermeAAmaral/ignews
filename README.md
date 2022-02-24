@@ -11,5 +11,5 @@ Funcionalidades do CMS Prismic(Administrador): Criação, edição, exclusão da
 
 Ferramentas, dependências e libs instaladas: Next, Typescript, Prismic, React-icons, SASS, Stripe
 
-Deploy: --
+Deploy: -----
  
